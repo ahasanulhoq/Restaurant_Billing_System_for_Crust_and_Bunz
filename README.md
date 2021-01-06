@@ -5,7 +5,7 @@ App Name: Restaurant Billing Software for Crust & Bunz ( Real-life Problem Solut
 
 Description: An application software for restaurants that will calculate the bill for customers. 
 
-Type of app: Application Software
+Type of app: Web Application
 
 Top 10 Features
 -Add food menu with price
@@ -23,10 +23,10 @@ Operating system: Windows /Linux/  Mac OS
 
 How to use: Install the latest JRE and run the project's .jar file from the command line or console.
 
-Written in: Java
+Written in: HTML, CSS, Java Script, PHP
 
-Tools used: IntelliJ IDEA
+Tools used: Vs Code, Atom.
 
-Developers: Md. 
+Developers: 
 Md Rezanur Rahman  (1612804042) [CSE327 Section 7] {Product woner}
 Md Ahasanul Hoq(1521687042) [CSE327 Section 7] {Scrum Master}
