@@ -19,7 +19,7 @@ Top 10 Features
 -Calculate the bill
 -Time of  purchasing
 
-Operating system: Windows /Linux/  Mac OS
+Operating system: No operating systme requred. It will run with internat browser.
 
 How to use: Install the latest JRE and run the project's .jar file from the command line or console.
 
